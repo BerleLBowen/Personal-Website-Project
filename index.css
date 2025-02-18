@@ -1,0 +1,9 @@
+h2{color: darkorange;}
+section{
+    margin: auto;
+}
+body{
+    background-color: rgb(144, 67, 29);
+    display: flex;
+    
+}
