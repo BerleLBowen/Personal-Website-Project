@@ -1,0 +1,22 @@
+head{
+    background-color: black;
+}
+body{
+background-color: black;
+}
+img{
+    border-radius: 45%;
+    padding: inherit;
+    margin:auto;
+    text-align: center;
+    display: block;
+}
+
+ul{
+
+    display: block;
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+

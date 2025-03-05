@@ -1,9 +1,38 @@
-h2{color: darkorange;}
-section{
-    margin: auto;
-}
-body{
-    background-color: rgb(144, 67, 29);
-    display: flex;
+head{
     
 }
+
+
+h2{color: rgb(19, 1, 1); 
+    font-style: oblique;
+    margin-right: 60%;
+    width: 100%; text-align: center;
+    
+}
+body{
+    background-color: rgb(107, 75, 4);
+    display: flex;    
+}
+p{font-style: inherit;
+    color: blanchedalmond;
+}
+ img{
+    margin:auto;
+    text-align: center;
+    width: 50%;
+    height: auto;
+    display: block;
+ }
+
+ ul{
+
+    display: block;
+    text-align: center;
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
+}
+
+
+ 
+
+    
